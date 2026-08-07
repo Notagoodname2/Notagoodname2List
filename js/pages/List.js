@@ -194,16 +194,16 @@ export default {
               </li>
             </ol>
           </template>
-        <p>All of the code was made by the people above. All I did was edit the template to have some instructions and I also cleared out the levels in it. Make sure to replace any placeholder text. I've added some notes here and there if you want to go and read it. Theres also a tutorial on how to add packs under the tools folder. Add levels, records, packs, and editors in the files under the data folder. Have fun! <br><br>You can remove this message in List.js under js/pages/List.js.</p>
+        <p></p>
         <h3>Level Requirements</h3>
-        <p>This is where you add extra info</p>
-        <p>It's at the bottom of List.js</p>
-		    <p>Put what you want to say inside of HTML paragraph tags.</p>
-		    <p>If you don't know what that is, look it up or learn some html. its pretty simple</p>
-        <p>Make sure to replace this with requirements for levels on your list.</p>
-		    <h3>Submission Requirements</h3>
-        <p>This is where you put the rules for submissions</p>
-        <p>Edit this the exact same as the level requirements above.</p>
+        <p></p>
+        <p></p>
+		    <p></p>
+		    <p></p>
+        <p></p>
+		    <h3></h3>
+        <p></p>
+        <p></p>
         </div>
       </div>
     </main>
