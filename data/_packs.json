@@ -1,21 +1,2 @@
 [
-  {
-    "name": "Test pack",
-    "color": "#FF0000",
-    "levels": [
-      1,
-      1,
-      1
-    ]
-  },
-  {
-    "name": "Test pack 2",
-    "color": "#FF0000",
-    "levels": [
-      1,
-      1,
-      1,
-      1
-    ]
-  }
 ]
